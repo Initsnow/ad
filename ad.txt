@@ -1,0 +1,28 @@
+tieba.baidu.com##div[ad-dom-img="true"]
+tieba.baidu.com##.fengchao-wrap-feed
+tieba.baidu.com##.label_text
+tieba.baidu.com##.j_click_close.close_btn
+tieba.baidu.com##.hover_btn
+tieba.baidu.com##.aside
+tieba.baidu.com##div.thread_item_box.clearfix
+tieba.baidu.com##.celebrity.region_bright
+tieba.baidu.com##.app_download_box.region_bright
+tieba.baidu.com##.topic_list_box
+tieba.baidu.com##div[data-field="{}"]
+tieba.baidu.com###fixed_bar
+tieba.baidu.com##.aside-wrapper
+tieba.baidu.com##.bus-top-activity-wrap
+tieba.baidu.com##.banner_theme.l_banner
+tieba.baidu.com##.card_banner_link.card_banner
+tieba.baidu.com##.nav_wrap_add_border.nav_wrap
+tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.right_wrap
+tieba.baidu.com##.right_bright.right_section
+tieba.baidu.com##.tbui_slideshow_container.plat_recom_carousel
+music.163.com##.g-sd4
+music.163.com##.lst
+t.bilibili.com##.right
+! 隐藏知乎侧栏
+www.zhihu.com##.Question-sideColumn--sticky
+! 知乎回答内容居中
+www.zhihu.com##.Question-mainColumn:style(margin: auto;)
