@@ -23,6 +23,6 @@ music.163.com##.g-sd4
 music.163.com##.lst
 t.bilibili.com##.right
 ! 隐藏知乎侧栏
-www.zhihu.com##.Question-sideColumn--sticky
+www.zhihu.com##.Question-sideColumn
 ! 知乎回答内容居中
 www.zhihu.com##.Question-mainColumn:style(margin: auto;)
