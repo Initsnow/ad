@@ -22,10 +22,11 @@ tieba.baidu.com##.tbui_slideshow_container.plat_recom_carousel
 music.163.com##.g-sd4
 music.163.com##.lst
 t.bilibili.com##.right
+www.bilibili.com##.adblock-tips
 live.bilibili.com##.play-together-tip
 ! 隐藏知乎侧栏
 www.zhihu.com##.Question-sideColumn
 ! 知乎回答内容居中
-www.zhihu.com##.Question-mainColumn:style(margin: auto;)
+www.zhihu.com##.Question-main:style(justify-content: center !important;)
 
 nudeslegion.com##div:has(> h4.adblock_title):upward(4)
