@@ -28,6 +28,9 @@ live.bilibili.com##.play-together-tip
 ||s1.hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
 ! 屏蔽搜索栏候选词
 bilibili.com##.launch-bar-form>input::placeholder:style(opacity:0!important;)
+! 屏蔽标签下黄框提示
+www.bilibili.com###notice
+
 ! 隐藏知乎侧栏
 www.zhihu.com##.Question-sideColumn
 ! 知乎回答内容居中
