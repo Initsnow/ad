@@ -35,5 +35,7 @@ www.bilibili.com###notice
 www.zhihu.com##.Question-sideColumn
 ! 知乎回答内容居中
 www.zhihu.com##.Question-main:style(justify-content: center !important;)
+! 知乎搜索侧栏
+www.zhihu.com##.css-knqde
 
 nudeslegion.com##div:has(> h4.adblock_title):upward(4)
