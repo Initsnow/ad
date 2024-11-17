@@ -19,7 +19,7 @@ tieba.baidu.com##.clearfix.top-sec
 tieba.baidu.com##.right_wrap
 tieba.baidu.com##.right_bright.right_section
 tieba.baidu.com##.tbui_slideshow_container.plat_recom_carousel
-music.163.com##.g-sd4
+music.163.com##.m-multi
 music.163.com##.lst
 t.bilibili.com##.right
 www.bilibili.com##.adblock-tips
