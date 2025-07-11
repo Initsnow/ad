@@ -32,6 +32,8 @@ bilibili.com##.launch-bar-form>input::placeholder:style(opacity:0!important;)
 bilibili.com##textarea.reply-box-textarea::placeholder:style(opacity:0!important;)
 ! 屏蔽标签下黄框提示
 www.bilibili.com###notice
+! 直播全屏下面的bar
+live.bilibili.com###web-player__bottom-bar__container
 
 ! 隐藏知乎侧栏
 www.zhihu.com##.Question-sideColumn
