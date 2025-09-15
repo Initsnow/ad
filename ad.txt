@@ -42,4 +42,7 @@ www.zhihu.com##.Question-main:style(justify-content: center !important;)
 ! 知乎搜索侧栏
 www.zhihu.com##.css-knqde
 
+music-theory.aizcutei.com##+js(prevent-addEventListener, copy, aizcutei)
+soundquest.jp##.col_last.span_3.col
+
 nudeslegion.com##div:has(> h4.adblock_title):upward(4)
